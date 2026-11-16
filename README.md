@@ -6,3 +6,6 @@ Hozirda Git va dasturlashni o'rganyapman.
 ## Loyihalarim
 - [Kundalik](https://github.com/USERNAME/kundalik)
 - [Men haqimda](https://github.com/USERNAME/men-haqimda)
+
+## Maqsadim
+Kelajakda kuchli dasturchi bo'lishni xohlayman.
